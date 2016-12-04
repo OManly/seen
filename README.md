@@ -9,6 +9,7 @@ some movies/television I have seed
 4. 被嫌弃的松子的一生
 5. 牯岭街少年杀人事件
 6. 侧耳倾听
+7. 花样年华
 
 ### 2016.10
 
