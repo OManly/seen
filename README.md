@@ -1,5 +1,9 @@
 # Seen
 some movies/television I have seed
+### 2016.12
+
+1. 春光乍泄
+2. 你的名字
 
 ### 2016.11
 
@@ -10,6 +14,7 @@ some movies/television I have seed
 5. 牯岭街少年杀人事件
 6. 侧耳倾听
 7. 花样年华
+
 
 ### 2016.10
 
@@ -23,9 +28,8 @@ some movies/television I have seed
 1. 非诚勿扰1/2
 2. 火花
 3. 独自等待
-
-
-
+4. 树大招风
+5. 海底总动员2
 
 
 
