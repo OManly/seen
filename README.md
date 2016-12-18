@@ -6,6 +6,7 @@ some movies/television I have seed
 2. 你的名字
 3. 触不到的恋人
 4. 20 30 40
+5. 疯狂动物城
 
 
 ### 2016.11
