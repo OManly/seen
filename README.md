@@ -8,7 +8,8 @@ some movies/television I have seed
 4. 20 30 40
 5. 疯狂动物城
 6. 起风了
-
+7. 魔女宅急便
+8. 血战钢锯岭
 
 ### 2016.11
 
