@@ -2,6 +2,7 @@
 some movies/television I have seed
 ### 2017.5
 1. 大空头
+2. 欢乐颂
 
 ### 2017.4
 1. 嫌疑人X的献身
