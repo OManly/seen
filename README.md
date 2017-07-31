@@ -3,6 +3,8 @@ some movies/television I have seed
 ### 2017.7
 1. 重庆森林
 2. 摔跤吧 爸爸
+3. 大护法
+4. 绣春刀2
 
 ### 2017.5
 1. 大空头
