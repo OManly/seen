@@ -1,5 +1,9 @@
 # Seen
 some movies/television I have seed
+
+### 2017.8
+1. 悟空传
+
 ### 2017.7
 1. 重庆森林
 2. 摔跤吧 爸爸
