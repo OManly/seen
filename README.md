@@ -3,6 +3,7 @@ some movies/television I have seed
 
 ### 2017.8
 1. 悟空传
+2. 二十二
 
 ### 2017.7
 1. 重庆森林
