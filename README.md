@@ -4,6 +4,7 @@ some movies/television I have seed
 ### 2017.10
 1. 缝纫机乐队
 2. 羞羞的铁拳
+3. 看不见的客人
 
 ### 2017.8
 1. 悟空传
