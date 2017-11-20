@@ -1,6 +1,9 @@
 # Seen
 some movies/television I have seed
 
+### 2017.11
+1. 让子弹飞
+
 ### 2017.10
 1. 缝纫机乐队
 2. 羞羞的铁拳
