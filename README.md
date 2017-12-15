@@ -1,8 +1,12 @@
 # Seen
 some movies/television I have seed
 
+### 2017.12
+1. coco寻梦环游记
+
 ### 2017.11
 1. 让子弹飞
+2. 战狼2
 
 ### 2017.10
 1. 缝纫机乐队
