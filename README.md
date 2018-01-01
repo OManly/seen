@@ -5,6 +5,7 @@ some movies/television I have seed
 1. coco寻梦环游记
 2. 全民目击
 3. 追龙
+4. 妖猫传
 
 ### 2017.11
 1. 让子弹飞
