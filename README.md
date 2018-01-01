@@ -36,6 +36,7 @@ some movies/television I have seed
 2. 攻壳机动队
 3. 美丽心灵
 4. 春娇救志明
+5. 忠犬八公
 
 ### 2017.3
 1. 爱乐之城
