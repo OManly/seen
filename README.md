@@ -1,6 +1,10 @@
 # Seen
 some movies/television I have seed
 
+### 2018.2
+1. 唐人街探案2
+
+
 ### 2018.1
 1. 无问西东
 2. 前任3
