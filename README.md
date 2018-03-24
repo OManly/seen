@@ -2,8 +2,8 @@
 some movies/television I have seed
 
 ### 2018.3
-1.三个广告牌
-2.芳华
+1. 三个广告牌
+2. 芳华
 
 ### 2018.2
 1. 唐人街探案2
