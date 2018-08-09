@@ -1,6 +1,10 @@
 # Seen
 some movies/television I have seed
 
+### 2018.7
+1. 我不是药神
+2. 西红市首富
+
 ### 2018.5
 1. 后来的我们
 2. 复仇者联盟
