@@ -1,6 +1,10 @@
 # Seen
 some movies/television I have seed
 
+### 2018.8
+1. 霸王别姬
+2. hello，树先生
+
 ### 2018.7
 1. 我不是药神
 2. 西红市首富
