@@ -1,6 +1,9 @@
 # Seen
 some movies/television I have seed
 
+### 2018.11
+1. 男人四十
+2. 洗澡
 
 ### 2018.10
 1. 无双
