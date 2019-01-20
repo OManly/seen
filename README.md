@@ -1,6 +1,11 @@
 # Seen
 some movies/television I have seed
 
+### 2019.1
+1. 听风者
+2. 风声
+3. 邪不压正
+
 ## 2018.12
 1. 无名之辈
 2. 狗十三
