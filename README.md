@@ -6,6 +6,7 @@ some movies/television I have seed
 2. 风声
 3. 阿甘正传
 4. 邪不压正
+5. 东北插班生
 
 ### 2018.12
 1. 无名之辈
