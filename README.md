@@ -3,6 +3,7 @@ some movies/television I have seed
 
 ### 2019.2
 1. Sex education
+2. 飞驰人生
 
 ### 2019.1
 1. 听风者
