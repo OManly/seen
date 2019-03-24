@@ -5,6 +5,7 @@ some movies/television I have seed
 1. 绿皮书
 2. 当幸福来敲门
 3. 来电狂响
+4. 波西米亚狂想曲
 
 ### 2019.2
 1. Sex education
