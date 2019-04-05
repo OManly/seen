@@ -1,6 +1,10 @@
 # Seen
 some movies/television I have seed
 
+### 2019.4
+1. 闻香识女人
+2. this is us第三季
+
 ### 2019.3
 1. 绿皮书
 2. 当幸福来敲门
