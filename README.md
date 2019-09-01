@@ -5,6 +5,7 @@ some movies/television I have seed
 1. 哪吒
 2. 寄生虫
 3. 燃烧
+4. 美国工厂
 
 ### 2019.6
 1. 追龙2
