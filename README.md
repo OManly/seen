@@ -7,6 +7,8 @@ some movies/television I have seed
 ### 2020.1 
 1. 囧妈
 2. 半个喜剧
+3. 师父
+4. 你是凶手
 
 ### 2019.12
 1. 攀登者
