@@ -1,6 +1,12 @@
 # Seen
 some movies/television I have seed
 
+### 2020.10
+1. 我和我的家乡
+2. 金刚川
+3. 小时代1
+4. 八佰
+
 ### 2020.5
 1. 请回答1988
 
