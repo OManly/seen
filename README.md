@@ -1,6 +1,12 @@
 # Seen
 some movies/television I have seed
 
+### 2021.7
+1. 1921
+
+### 2021.6
+1. 延禧攻略
+
 ### 2021.5
 1. 悬崖之上
 2. 天道
