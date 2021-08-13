@@ -1,8 +1,9 @@
 # Seen
-some movies/television I have seed
+some movies/television I have seen
 
 ### 2021.7
 1. 1921
+2. 中国医生
 
 ### 2021.6
 1. 延禧攻略
