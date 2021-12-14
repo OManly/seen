@@ -1,6 +1,16 @@
 # Seen
 some movies/television I have seen
 
+### 2021.12
+1. 爱很美味
+
+
+### 2021.11
+1. 扬名立万
+2. 第十二秒
+3. 一生一世
+
+
 ### 2021.7
 1. 1921
 2. 中国医生
@@ -15,6 +25,7 @@ some movies/television I have seen
 ### 2021.2
 1. 发财日记
 2. 让我过过瘾
+3. 你好，李焕英
 
 ### 2021.1
 1. 紧急公关
@@ -66,6 +77,7 @@ some movies/television I have seen
 1. 闻香识女人
 2. this is us第三季
 3. 英雄本色
+4. 地久天长
 
 ### 2019.3
 1. 绿皮书
@@ -85,6 +97,7 @@ some movies/television I have seen
 3. 阿甘正传
 4. 邪不压正
 5. 东北插班生
+6. 燃点
 
 ### 2018.12
 1. 无名之辈
@@ -96,6 +109,7 @@ some movies/television I have seen
 ### 2018.11
 1. 男人四十
 2. 洗澡
+3. 你好，之花
 
 ### 2018.10
 1. 无双
@@ -116,6 +130,7 @@ some movies/television I have seen
 
 ### 2018.6
 1. 深夜食堂
+2. 超时空同居
 
 ### 2018.5
 1. 后来的我们
