@@ -1,6 +1,11 @@
 # Seen
 some movies/television I have seen
 
+2022.12
+1. 我和我的父辈
+
+2022.7
+1. 外太空的莫扎特
 
 2022.1
 1. 谁是凶手
