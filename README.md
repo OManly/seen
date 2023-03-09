@@ -1,8 +1,13 @@
 # Seen
 some movies/television I have seen
 
+2023.2
+1. 狂飙
+2. 无名
+
 2022.12
 1. 我和我的父辈
+2. 县委大院
 
 2022.7
 1. 外太空的莫扎特
