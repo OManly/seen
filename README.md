@@ -2,7 +2,7 @@
 some movies/television I have seen
 
 ### 2023.6
-1.消失的她
+1. 消失的她
 
 ### 2023.5
 1. 漫长的季节
