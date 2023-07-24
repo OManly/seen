@@ -4,6 +4,8 @@ some movies/television I have seen
 ### 2023.7
 1. 茶啊二中
 2. 八角笼中
+3. 长安三万里
+4. 热烈
 
 ### 2023.6
 1. 消失的她
