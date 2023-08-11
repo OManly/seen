@@ -1,6 +1,9 @@
 # Seen
 some movies/television I have seen
 
+### 2023.8
+1. 封神第一部朝歌风云
+
 ### 2023.7
 1. 茶啊二中
 2. 八角笼中
