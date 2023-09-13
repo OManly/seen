@@ -1,6 +1,10 @@
 # Seen
 some movies/television I have seen
 
+### 2023.9
+1. 奥本海默
+2. 第八个嫌疑人
+
 ### 2023.8
 1. 封神第一部朝歌风云
 
