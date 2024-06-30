@@ -1,6 +1,9 @@
 # Seen
 some movies/television I have seen
 
+### 2024.6
+1. 来福大酒店
+
 ### 2024.4
 1. 黄雀在后！
 
