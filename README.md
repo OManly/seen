@@ -1,6 +1,9 @@
 # Seen
 some movies/television I have seen
 
+### 2024.7
+1. 抓娃娃
+
 ### 2024.6
 1. 来福大酒店
 
