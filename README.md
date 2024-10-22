@@ -1,6 +1,12 @@
 # Seen
 some movies/television I have seen
 
+### 2024.10
+1. 祝你幸福！
+
+### 2024.8
+1. 甲方乙方
+
 ### 2024.7
 1. 抓娃娃
 
