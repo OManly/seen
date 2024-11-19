@@ -1,6 +1,9 @@
 # Seen
 some movies/television I have seen
 
+### 2024.11
+1. 好东西
+
 ### 2024.10
 1. 祝你幸福！
 
