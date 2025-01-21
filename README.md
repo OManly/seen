@@ -1,6 +1,9 @@
 # Seen
 some movies/television I have seen
 
+### 2025.1
+1. 孤注一掷
+
 ### 2024.11
 1. 好东西
 
