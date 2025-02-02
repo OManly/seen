@@ -1,6 +1,9 @@
 # Seen
 some movies/television I have seen
 
+### 2025.2
+1. 哪吒之魔童闹海
+
 ### 2025.1
 1. 孤注一掷
 
