@@ -5,6 +5,7 @@ some movies/television I have seen
 1. 哪吒之魔童闹海
 2. 哪吒之魔童降世（重看）
 3. 花样年华
+4. 诡才之道
 
 ### 2025.1
 1. 孤注一掷
