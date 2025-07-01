@@ -1,6 +1,9 @@
 # Seen
 some movies/television I have seen
 
+### 2025.6
+1. 长安的荔枝
+
 ### 2025.2
 1. 哪吒之魔童闹海
 2. 哪吒之魔童降世（重看）
