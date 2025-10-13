@@ -3,6 +3,7 @@ some movies/television I have seen
 
 ### 2025.10
 1. 长安的荔枝（电影）
+2. 寒战2
 
 ### 2025.9
 1. 不眠日
