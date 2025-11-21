@@ -1,6 +1,10 @@
 # Seen
 some movies/television I have seen
 
+### 2025.11
+1. 一战再战
+2. 日掛中天
+
 ### 2025.10
 1. 长安的荔枝（电影）
 2. 寒战2
